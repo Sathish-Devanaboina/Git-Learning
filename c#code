@@ -1,0 +1,11 @@
+using System;
+namespace oops
+{
+    public class git
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello Hii Every One");
+        }
+    }
+}
